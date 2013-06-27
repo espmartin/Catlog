@@ -7,7 +7,7 @@ LOCAL_MODULE_TAGS := tests
 LOCAL_SRC_FILES := \
         $(call all-java-files-under, src)
 
-LOCAL_PACKAGE_NAME := Catlog
+LOCAL_PACKAGE_NAME := logcat
 
 LOCAL_STATIC_JAVA_LIBRARIES := android-support-v13
 
